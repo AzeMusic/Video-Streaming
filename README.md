@@ -1,8 +1,8 @@
-# Dr-Strange-Audio-Video-Streaming
+# Video-Streaming
 video stream is a telegram bot project for streaming a video and music trought the new telegram group video chat.
 ## ❤️ Dr Strange Music ❤️
 
-Dr Strange Music Is A Telegram Bot Project That's Allow You To Play Music On Telegram Voice Chat Group.
+Dr Music Is A Telegram Bot Project That's Allow You To Play Music On Telegram Voice Chat Group.
 
 <p align="center"><a href=""> <img src="https://img.shields.io/badge/Copy%20Paster%20Ki%20Gand%20Main%20Land-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
@@ -16,7 +16,7 @@ Dr Strange Music Is A Telegram Bot Project That's Allow You To Play Music On Tel
 
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jankarikiduniya/Dr-Strange-Audio-Video-Streaming)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jankarikiduniya/Video-Streaming)
 
 ## ✨ Features
 
