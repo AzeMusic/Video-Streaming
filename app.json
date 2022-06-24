@@ -1,25 +1,27 @@
 {
-    "name": "Dr Music Streaming Bot",
-    "description": "Dr Music Video Review Telegram Bot For Streaming Video & Music Trought The Telegram Group Video Chat, Powered By Pytgcalls And Pyrogram",
+    "name": "MUSİC PLAYER",
+    "description": "ledy music",
     "logo": "https://telegra.ph/file/336e006861a2667a7663f.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
-        "video stream"
+        "video stream",
+        "Ledy Service's",
+        "ledy-team-op"
     ],
-    "website": "https://t.me/Dr_Asad_Ali",
-    "repository": "https://github.com/jankarikiduniya/Dr-Music-Video-Streaming",
-    "success_url": "https://t.me/Give_Me_Heart",
+    "website": "https://t.me/Tenha055",
+    "repository": "https://github.com/AzeMusic/Video-Streaming",
+    "success_url": "https://t.me/ledyplaylist",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
             "required": false,
-            "value": ""
+            "value": "12630280"
         },
         "API_HASH": {
             "description": "your API_HASH from my.telegram.org",
             "required": false,
-            "value": ""
+            "value": "b6cf974f15dddbfb06996f40586b579c"
         },
         "BOT_TOKEN": {
             "description": "your bot token from @BotFather",
